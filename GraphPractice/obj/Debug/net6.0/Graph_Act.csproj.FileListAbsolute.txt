@@ -1,0 +1,15 @@
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\bin\Debug\net6.0\Graph_Act.exe
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\bin\Debug\net6.0\Graph_Act.deps.json
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\bin\Debug\net6.0\Graph_Act.runtimeconfig.json
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\bin\Debug\net6.0\Graph_Act.dll
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\bin\Debug\net6.0\Graph_Act.pdb
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.csproj.AssemblyReference.cache
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.AssemblyInfoInputs.cache
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.AssemblyInfo.cs
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.csproj.CoreCompileInputs.cache
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.dll
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\refint\Graph_Act.dll
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.pdb
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\Graph_Act.genruntimeconfig.cache
+C:\Users\52618\Documents\GraphPractice-master\GraphPractice\obj\Debug\net6.0\ref\Graph_Act.dll
